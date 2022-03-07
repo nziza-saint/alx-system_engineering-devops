@@ -1,0 +1,1 @@
+This file elaborate the redirections use cases
